@@ -1,0 +1,4 @@
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.AssemblyInfoInputs.cache
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.AssemblyInfo.cs
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.csproj.CoreCompileInputs.cache

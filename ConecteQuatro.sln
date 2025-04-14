@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConecteQuatro", "ConecteQuatro\ConecteQuatro.csproj", "{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConecteQuatroTestes", "ConecteQuatroTestes\ConecteQuatroTestes.csproj", "{31A3FF69-DC95-4812-96B1-4589ACCFADFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A3FF69-DC95-4812-96B1-4589ACCFADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A3FF69-DC95-4812-96B1-4589ACCFADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A3FF69-DC95-4812-96B1-4589ACCFADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A3FF69-DC95-4812-96B1-4589ACCFADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9169981F-50E5-4C88-A6F8-F743E5ACC58A}
+	EndGlobalSection
+EndGlobal
