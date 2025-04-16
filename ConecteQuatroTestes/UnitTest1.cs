@@ -17,7 +17,8 @@ namespace ConecteQuatroTestes {
             var tabuleiro = new Tabuleiro();
             var peca = new Peca('O');
             for (int i = 0; i < 4; i++) {
-                tabuleiro.SoltarPeca(i, peca.Simbolo);
+                // Simular uma horizontal (-)
+                tabuleiro.SoltarPeca(i, peca.Simbolo); 
             }
             bool vitoria = tabuleiro.VerificarVencedor(peca.Simbolo);
             Assert.IsTrue(vitoria);
@@ -28,7 +29,8 @@ namespace ConecteQuatroTestes {
             var tabuleiro = new Tabuleiro();
             var peca = new Peca('X');
             for (int i = 0; i < 4; i++) {
-                tabuleiro.SoltarPeca(0, peca.Simbolo);
+                // Simular uma vertical (|)
+                tabuleiro.SoltarPeca(0, peca.Simbolo); 
             }
             bool vitoria = tabuleiro.VerificarVencedor(peca.Simbolo);
             Assert.IsTrue(vitoria);

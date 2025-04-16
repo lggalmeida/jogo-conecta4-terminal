@@ -36,33 +36,38 @@
             // Verificar Linhas, Colunas e Diagonais
             for (int linha = 0; linha < Linhas; linha++) {
                 for (int coluna = 0; coluna < Colunas; coluna++) {
-                    if (coluna + 3 < Colunas &&
+                    if (coluna + 3 < Colunas &&                       // ( - )
                         grade[linha, coluna] == simbolo &&
                         grade[linha, coluna + 1] == simbolo &&
                         grade[linha, coluna + 2] == simbolo &&
-                        grade[linha, coluna + 3] == simbolo)
+                        grade[linha, coluna + 3] == simbolo) {
                         return true;
+                    }
 
-                    if (linha + 3 < Linhas &&
-                        grade[linha, coluna] == simbolo &&
+                    if (linha + 3 < Linhas &&                         // ( | )
+                        grade[linha, coluna] == simbolo && 
                         grade[linha + 1, coluna] == simbolo &&
                         grade[linha + 2, coluna] == simbolo &&
-                        grade[linha + 3, coluna] == simbolo)
+                        grade[linha + 3, coluna] == simbolo) {
                         return true;
+                    }
 
-                    if (linha + 3 < Linhas && coluna + 3 < Colunas &&
+                    if (linha + 3 < Linhas && coluna + 3 < Colunas && // ( \ )
                         grade[linha, coluna] == simbolo &&
                         grade[linha + 1, coluna + 1] == simbolo &&
                         grade[linha + 2, coluna + 2] == simbolo &&
-                        grade[linha + 3, coluna + 3] == simbolo)
+                        grade[linha + 3, coluna + 3] == simbolo) {
                         return true;
+                    }
 
-                    if (linha + 3 < Linhas && coluna - 3 >= 0 &&
+                    if (linha + 3 < Linhas && coluna - 3 >= 0 &&      // ( / )
                         grade[linha, coluna] == simbolo &&
                         grade[linha + 1, coluna - 1] == simbolo &&
                         grade[linha + 2, coluna - 2] == simbolo &&
-                        grade[linha + 3, coluna - 3] == simbolo)
+                        grade[linha + 3, coluna - 3] == simbolo) {
                         return true;
+                    }
+                        
                 }
             }
             return false;

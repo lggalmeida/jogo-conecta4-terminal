@@ -2,3 +2,14 @@ C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\De
 C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.AssemblyInfoInputs.cache
 C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.AssemblyInfo.cs
 C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.csproj.CoreCompileInputs.cache
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\bin\Debug\net8.0\ConecteQuatro.exe
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\bin\Debug\net8.0\ConecteQuatro.deps.json
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\bin\Debug\net8.0\ConecteQuatro.runtimeconfig.json
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\bin\Debug\net8.0\ConecteQuatro.dll
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\bin\Debug\net8.0\ConecteQuatro.pdb
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.sourcelink.json
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.dll
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\refint\ConecteQuatro.dll
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.pdb
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ConecteQuatro.genruntimeconfig.cache
+C:\Users\ga783\OneDrive\Área de Trabalho\POO\ConecteQuatro\ConecteQuatro\obj\Debug\net8.0\ref\ConecteQuatro.dll

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatro\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|solutionrelative:conectequatro\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|solutionrelative:conectequatro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatrotestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|solutionrelative:conectequatrotestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|solutionrelative:conectequatro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatro\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|solutionrelative:conectequatro\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatro\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F33A6A4-CB6C-44D9-BE62-4211454D3B32}|ConecteQuatro\\ConecteQuatro.csproj|solutionrelative:conectequatro\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatrotestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|solutionrelative:conectequatrotestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|c:\\users\\ga783\\onedrive\\\u00E1rea de trabalho\\poo\\conectequatro\\conectequatrotestes\\conectequatrotestes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{31A3FF69-DC95-4812-96B1-4589ACCFADFB}|ConecteQuatroTestes\\ConecteQuatroTestes.csproj|solutionrelative:conectequatrotestes\\conectequatrotestes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,56 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tabuleiro.cs",
-              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Tabuleiro.cs",
-              "RelativeDocumentMoniker": "ConecteQuatro\\Tabuleiro.cs",
-              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Tabuleiro.cs",
-              "RelativeToolTip": "ConecteQuatro\\Tabuleiro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:03:58.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConecteQuatroTestes",
-              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatroTestes\\ConecteQuatroTestes.csproj",
-              "RelativeDocumentMoniker": "ConecteQuatroTestes\\ConecteQuatroTestes.csproj",
-              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatroTestes\\ConecteQuatroTestes.csproj",
-              "RelativeToolTip": "ConecteQuatroTestes\\ConecteQuatroTestes.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T17:36:10.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatroTestes\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ConecteQuatroTestes\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatroTestes\\UnitTest1.cs",
               "RelativeToolTip": "ConecteQuatroTestes\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T17:33:17.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "ConecteQuatro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Tabuleiro.cs",
+              "RelativeToolTip": "ConecteQuatro\\Tabuleiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:03:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogo.cs",
+              "RelativeDocumentMoniker": "ConecteQuatro\\Jogo.cs",
+              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogo.cs",
+              "RelativeToolTip": "ConecteQuatro\\Jogo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:03:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogador.cs",
+              "RelativeDocumentMoniker": "ConecteQuatro\\Jogador.cs",
+              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogador.cs",
+              "RelativeToolTip": "ConecteQuatro\\Jogador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:01:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Peca.cs",
               "RelativeDocumentMoniker": "ConecteQuatro\\Peca.cs",
               "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Peca.cs",
               "RelativeToolTip": "ConecteQuatro\\Peca.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T17:04:36.033Z",
               "EditorCaption": ""
@@ -95,38 +104,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Jogo.cs",
-              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogo.cs",
-              "RelativeDocumentMoniker": "ConecteQuatro\\Jogo.cs",
-              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogo.cs",
-              "RelativeToolTip": "ConecteQuatro\\Jogo.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:03:21.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogador.cs",
-              "RelativeDocumentMoniker": "ConecteQuatro\\Jogador.cs",
-              "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Jogador.cs",
-              "RelativeToolTip": "ConecteQuatro\\Jogador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:01:36.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Program.cs",
               "RelativeDocumentMoniker": "ConecteQuatro\\Program.cs",
               "ToolTip": "C:\\Users\\ga783\\OneDrive\\\u00C1rea de Trabalho\\POO\\ConecteQuatro\\ConecteQuatro\\Program.cs",
               "RelativeToolTip": "ConecteQuatro\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T17:00:37.049Z",
               "EditorCaption": ""

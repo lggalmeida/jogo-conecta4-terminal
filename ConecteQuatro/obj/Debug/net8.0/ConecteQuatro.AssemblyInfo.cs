@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConecteQuatro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7973a36078ec2ec140bf36e6ce3ed9f484f6c3bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConecteQuatro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConecteQuatro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,8 +31,9 @@
                         rodadas++;
                         venceu = tabuleiro.VerificarVencedor(jogadorAtual.Peca.Simbolo);
 
-                        if (!venceu)
+                        if (!venceu) { 
                             jogadorAtual = (jogadorAtual == jogador1) ? jogador2 : jogador1;
+                        }   
                     }
                     else {
                         Console.WriteLine("Coluna cheia! Escolha outra.");
@@ -46,10 +47,12 @@
             }
 
             tabuleiro.Exibir();
-            if (venceu)
+            if (venceu) { 
                 Console.WriteLine($"Parabéns {jogadorAtual.Nome}, você venceu!");
-            else
+            }
+            else { 
                 Console.WriteLine("Empate! O tabuleiro está cheio.");
+            }
         }
     }
 }
